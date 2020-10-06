@@ -1,5 +1,5 @@
 # web-scraping
-Web scraping example with python.
+Web scraping example with python BeautifulSoup
 
 Find python related jobs from the Indeed and stack overflow websites then save them as a CSV format.
 
